@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# JetBrains IDE
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
